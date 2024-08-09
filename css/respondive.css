@@ -1,0 +1,201 @@
+@media (max-width:1200px) {}
+
+@media (min-width:993px) and (max-width:1200px) {}
+
+@media (max-width:992px) {
+
+    nav {
+        display: none;
+    }
+
+}
+
+@media (min-width:769px) and (max-width:992px) {
+    .col-4 {
+        width: 100%;
+        padding: 20px 0;
+    }
+
+    .col-8 {
+        width: 100%;
+        padding: 20px 0;
+    }
+
+    .main {
+        margin-left: 0px;
+    }
+
+}
+
+@media (max-width:768px) {
+    .col-4 {
+        width: 100%;
+        padding: 20px 0;
+    }
+
+    .col-8 {
+        width: 100%;
+        padding: 20px 0;
+    }
+
+    .main {
+        margin-left: 0px;
+    }
+}
+
+@media (min-width:577px) and (max-width:768px) {
+    
+}
+
+@media (max-width:576px) {
+    .absolute {
+        left: 50px;
+    }
+
+    .row .col-3 {
+        width: 50%;
+    }
+
+    .row .col-6 {
+        width: 100%;
+    }
+
+    .row .col-6 input {
+        margin: 15px 0;
+
+    }
+    .row .col-6 {
+        width: 100%;
+    }
+
+    .row .col-6 input {
+        margin: 15px 0;
+
+    }
+
+
+}
+
+@media (max-width:400px) {
+    .absolute {
+        left: 0;
+        width: 79%;
+    }
+
+}
+
+@media (min-width:321px) and (max-width:360px) {
+    .hero .ps-5 {
+        padding: 0px 15px !important;
+    }
+
+    h1 {
+        font-size: 16px;
+    }
+
+    .row .col-3 {
+        width: 100%;
+    }
+
+    .col-8 .row .col .gap-3 {
+        gap: 5px !important;
+    }
+
+    .col-8 .row .col .div i {
+        font-size: 11px;
+    }
+
+    .hero h1 {
+        font-size: 20px !important;
+    }
+
+    .hero p {
+        font-size: 18px !important;
+        margin-bottom: 8px;
+    }
+
+    .hero .gap-3 {
+        gap: 10px !important;
+    }
+
+    .hero .social-links i {
+        font-size: 14px !important;
+    }
+
+    .pt-5 {
+        padding-top: 24px !important;
+    }
+
+    .pb-5 {
+        padding-bottom: 0px !important;
+    }
+
+    .w-75 {
+        width: 100% !important;
+    }
+
+    .py-5 {
+        padding: 10px 0 !important;
+    }
+}
+
+@media (max-width:320px) {
+    .absolute {
+        left: 20px;
+        width: 90%;
+    }
+
+    .hero .ps-5 {
+        padding: 0px !important;
+    }
+
+    h1 {
+        font-size: 16px;
+        display: block;
+    }
+
+    .row .col-3 {
+        width: 100%;
+    }
+
+    .col-8 .row .col .gap-3 {
+        gap: 5px !important;
+    }
+
+    .col-8 .row .col .div i {
+        font-size: 11px;
+    }
+
+    .hero h1 {
+        font-size: 20px !important;
+    }
+
+    .hero p {
+        font-size: 18px !important;
+        margin-bottom: 8px;
+    }
+
+    .hero .gap-3 {
+        gap: 10px !important;
+    }
+
+    .hero .social-links i {
+        font-size: 14px !important;
+    }
+
+    .pt-5 {
+        padding-top: 24px !important;
+    }
+
+    .pb-5 {
+        padding-bottom: 0px !important;
+    }
+
+    .w-75 {
+        width: 100% !important;
+    }
+
+    .py-5 {
+        padding: 10px 0 !important;
+    }
+}
